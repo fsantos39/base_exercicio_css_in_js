@@ -7,8 +7,6 @@ const EstiloGlobal = createGlobalStyle`
     box-sizing: border-box;
     list-style: none;
     font-family: 'Lato', sans-serif;
-
-
   }
 
   body {

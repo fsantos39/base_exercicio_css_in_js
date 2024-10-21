@@ -7,7 +7,7 @@ export const Form = styled.form`
   background-size: cover;
   position: relative;
   display: flex;
-  align-itens: center;
+  align-items: center;
 
   ::before {
     position: absolute;
